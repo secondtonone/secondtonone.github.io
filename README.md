@@ -1,1 +1,2 @@
-# secondtonone.github.io
+# POETIC PRAXIS
+Own project
