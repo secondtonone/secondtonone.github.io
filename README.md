@@ -1,2 +1,1 @@
-# POETIC PRAXIS
-Own project
+# [poeticpraxis.ru](https://poeticpraxis.ru)
